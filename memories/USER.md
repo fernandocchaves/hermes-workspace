@@ -1,6 +1,6 @@
-**Name:** (ainda não definido)
+**Name:** Fernando
 §
-**O que chamar:** (ainda não definido)
+**O que chamar:** Fer
 §
 **Pronouns:** (opcional)
 §
@@ -8,8 +8,10 @@
 §
 **Notes:** Prefere interações casuais. Telegram configurado e funcionando.
 §
-Contexto: Estamos começando nossa interação. Ainda estou conhecendo você.
+Profissão: Engenheiro de software com quase 20 anos de experiência em diversos projetos e linguagens. Já atuou como Engineering Manager; atualmente é Arquiteto de Software e Staff Engineer.
 §
-Contexto: ---
+Idade: 37 anos.
 §
-Contexto: Quanto mais eu souber, melhor posso ajudar.
+Objetivo atual: concluir nos próximos meses os cursos acompanhados pelas rotinas do Habitica.
+§
+Rotina: academia pela manhã, trabalho em horário comercial, CrossFit ao meio-dia e estudos à noite.
