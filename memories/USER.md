@@ -10,8 +10,10 @@
 §
 Profissão: Engenheiro de software com quase 20 anos de experiência em diversos projetos e linguagens. Já atuou como Engineering Manager; atualmente é Arquiteto de Software e Staff Engineer.
 §
-Idade: 37 anos.
+Nascimento: 14/06/1989; 37 anos em 2026.
 §
 Objetivo atual: concluir nos próximos meses os cursos acompanhados pelas rotinas do Habitica.
 §
-Rotina: academia pela manhã, trabalho em horário comercial, CrossFit ao meio-dia e estudos à noite.
+Rotina: acorda às 08:00; musculação às 08:30 de segunda a sexta; CrossFit às 12:00 seg/qua/sex; soneca 18:00–20:00; costuma dormir às 02:00; quinta é treino de perna.
+§
+Saúde: há um dossiê detalhado, salvo a pedido de Fernando, em `memories/fernando-saude-rotina.md`. Usá-lo como contexto para planejamento e lembretes, nunca como substituto de orientação do Dr. Everton Andrade (CRM 28996RS) e da personal trainer.
