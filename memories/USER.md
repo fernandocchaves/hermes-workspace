@@ -17,3 +17,5 @@ Objetivo atual: concluir nos próximos meses os cursos acompanhados pelas rotina
 Rotina: acorda às 08:00; musculação às 08:30 de segunda a sexta; CrossFit às 12:00 seg/qua/sex; soneca 18:00–20:00; costuma dormir às 02:00; quinta é treino de perna.
 §
 Saúde: há um dossiê detalhado, salvo a pedido de Fernando, em `memories/fernando-saude-rotina.md`. Usá-lo como contexto para planejamento e lembretes, nunca como substituto de orientação do Dr. Everton Andrade (CRM 28996RS) e da personal trainer.
+§
+English Learning: Fer está na transição de A2 para B1 e quer melhorar o inglês para participar de processos seletivos em empresas internacionais.
