@@ -21,3 +21,5 @@ Fernando nasceu em 14/06/1989. Rotina-base: acorda 08:00; musculação 08:30 seg
 Fernando pediu que seu contexto clínico e de rotina seja lembrado. Dossiê detalhado em `/opt/data/memories/fernando-saude-rotina.md`, com exames, medicamentos, treino, alimentação, hidratação e alertas; dados clínicos datados devem apoiar lembretes, não diagnóstico/prescrição.
 §
 Segurança de treino de Fernando: não sugerir termogênicos nem cápsulas de potássio por conta própria; evitar empilhar cafeína/Venvanse e manter treino de perna sem cafeína. Tontura forte, vista escurecendo, quase desmaio, palpitação ou aperto no peito exigem parar e procurar avaliação médica.
+§
+Anki headless: Anki 26.08.1 roda via Xvfb em `/opt/data/anki-headless`; coleção sincronizada com AnkiWeb. AnkiConnect protegido em `127.0.0.1:8765`.
