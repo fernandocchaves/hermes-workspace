@@ -21,3 +21,5 @@ English: A2→B1; quer conversação geral, atualidades, trabalho internacional 
 GameDev: Fer quer estudar desenvolvimento de jogos como plano separado do inglês; primeiro objetivo é criar um jogo 2D indie solo, usando Godot.
 §
 User: Em geração de imagens, prefere a capacidade nativa do Codex/OpenAI na thread, não backends isolados como FAL ou ComfyUI.
+§
+Estudos: aprende melhor com aplicação-base e exercícios; prefere vídeos para teoria e materiais gratuitos.
