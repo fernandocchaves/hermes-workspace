@@ -10,7 +10,7 @@ Profissão: Arquiteto de Software/Staff Engineer, ex-Engineering Manager, com qu
 §
 Nascimento: 14/06/1989; 37 anos em 2026.
 §
-Objetivo atual: concluir nos próximos meses os cursos acompanhados pelas rotinas do Habitica.
+Estudos incluem inglês diário, MBAs de IA e arquitetura, cursos de Elemar Jr, Rodrigo Branas e PM3; lista aberta.
 §
 Rotina: acorda às 08:00; musculação às 08:30 de segunda a sexta; CrossFit às 12:00 seg/qua/sex; soneca 18:00–20:00; costuma dormir às 02:00; quinta é treino de perna.
 §
