@@ -2,7 +2,7 @@ User: Prefere interações casuais.
 §
 User: Telegram está configurado e funcionando.
 §
-Workspace: A pasta `memory/` existe e é usada para notas diárias e temas específicos.
+Vault Obsidian: git@github.com:fernandocchaves/obsidian.git; checkout /opt/data/repos/obsidian. AGENTS.md próprio: preservar notas, usar links existentes e evitar emojis nas notas.
 §
 Hermes: Em 2026-07-08, a configuração ativa foi ajustada para migrar referências de `openai-codex` para `openai` sem perder o histórico das sessões.
 §
