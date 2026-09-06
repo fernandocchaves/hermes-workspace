@@ -89,7 +89,7 @@ display:
   cleanup_progress: false
   long_running_notifications: true
   busy_ack_detail: true
-  background_process_notifications: all
+  background_process_notifications: concise
 dashboard:
   theme: default
   font: theme
@@ -109,7 +109,7 @@ memory:
   nudge_interval: 10
   flush_min_turns: 6
 delegation:
-  max_iterations: 50
+  max_iterations: 250
 skills:
   creation_nudge_interval: 15
 approvals:
@@ -125,7 +125,7 @@ updates:
   pre_update_backup: false
   backup_keep: 5
   non_interactive_local_changes: stash
-_config_version: 33
+_config_version: 40
 session_reset:
   mode: both
   idle_minutes: 1440
