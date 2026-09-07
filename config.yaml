@@ -125,7 +125,7 @@ updates:
   pre_update_backup: false
   backup_keep: 5
   non_interactive_local_changes: stash
-_config_version: 40
+_config_version: 41
 session_reset:
   mode: both
   idle_minutes: 1440
