@@ -10,7 +10,7 @@ Profissão: Arquiteto de Software/Staff Engineer, ex-Engineering Manager, com qu
 §
 Nascimento: 14/06/1989; 37 anos em 2026.
 §
-Estudos incluem inglês diário, MBAs de IA e arquitetura, cursos de Elemar Jr, Rodrigo Branas e PM3; lista aberta.
+Estudos: inglês diário, MBAs IA/arquitetura, cursos e certificações Claude/cloud; possui empresa com CNPJ/e-mail próprio e Claude Team.
 §
 Rotina: acorda às 08:00; musculação às 08:30 de segunda a sexta; CrossFit às 12:00 seg/qua/sex; soneca 18:00–20:00; costuma dormir às 02:00; quinta é treino de perna.
 §
