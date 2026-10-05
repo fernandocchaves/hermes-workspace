@@ -6,13 +6,7 @@ Vault Obsidian: git@github.com:fernandocchaves/obsidian.git; checkout /opt/data/
 §
 Hermes: Em 2026-07-08, a configuração ativa foi ajustada para migrar referências de `openai-codex` para `openai` sem perder o histórico das sessões.
 §
-2026-07-08 - Wednesday > Notes: Crons não pararam por completo: em `2026-07-08` o scheduler continuou ativo, mas várias jobs isoladas falharam na entrega por usar `delivery.channel: "last"` sem `to` explícito, o que passou a ser recusado por segurança.
-§
-2026-07-08 - Wednesday > Notes: Corrigidas as jobs isoladas do Telegram para usar entrega explícita em `channel: "telegram"` e `to: "392750679"`.
-§
-2026-07-08 - Wednesday > Notes: O lembrete de inglês das `15:00` falhou antes da correção por ainda bater no erro antigo de modelo `openai-codex/gpt-5.4`; as falhas da noite foram majoritariamente de entrega, não de scheduler.
-§
-English Learning - Fernando's Profile > Level: Basic to Intermediate
+English: A2→B1; quer conversação, trabalho internacional e entrevistas. Possui apostilas visuais A1–C2 e Dev Speak; prefere vídeos, prática ativa e Anki contextual.
 §
 User: Usa o Habitica para acompanhar atividades diárias e pode pedir ao assistente para concluir as dailies previstas do dia.
 §
