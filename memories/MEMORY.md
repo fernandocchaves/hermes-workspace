@@ -17,3 +17,5 @@ Fernando pediu que seu contexto clínico e de rotina seja lembrado. Dossiê deta
 Segurança de treino de Fernando: não sugerir termogênicos nem cápsulas de potássio por conta própria; evitar empilhar cafeína/Venvanse e manter treino de perna sem cafeína. Tontura forte, vista escurecendo, quase desmaio, palpitação ou aperto no peito exigem parar e procurar avaliação médica.
 §
 Anki headless: Anki 26.08.1 roda via Xvfb em `/opt/data/anki-headless`; coleção sincronizada com AnkiWeb. AnkiConnect protegido em `127.0.0.1:8765`.
+§
+Notes/Obsidian: the active Ignis container vault is `/vaults/obsidian`, distinct from the editable Git clone `/opt/data/repos/obsidian`; notes prepared in the clone must be copied into the container vault and hash-verified before claiming they appear in Notes.
